@@ -1,4 +1,4 @@
-# -*- mode: mandoku-view; -*-
+-*- mode: mandoku-view; -*-
 #+TITLE: 後村先生大全集
 #+DATE: 2015-09-11 14:38:54.797449
 #+PROPERTY: ID KR4d0340
